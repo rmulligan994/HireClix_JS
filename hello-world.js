@@ -1,6 +1,6 @@
 (function() {
     function addButtonListener() {
-        const button = document.querySelector('.jsdeliver-hit');
+        const button = document.querySelector('.jsdeliver-hit w-button');
         
         if (button) {
             button.addEventListener('click', function() {
